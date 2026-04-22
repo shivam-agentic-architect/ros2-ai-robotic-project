@@ -4,3 +4,4 @@ log/
 *.log
 *.pyc
 __pycache__/
+src/rplidar_ros/
